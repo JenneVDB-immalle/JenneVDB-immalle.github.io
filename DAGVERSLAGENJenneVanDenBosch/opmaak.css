@@ -45,6 +45,10 @@ article.verslag h1{
     color:#75684e;
     font-size: 23px;
 }
+article.verslag aside{
+    float: right;
+    margin-left:10px;
+}
 p.woord{
     margin-top: 50px;
     font-style:italic;
