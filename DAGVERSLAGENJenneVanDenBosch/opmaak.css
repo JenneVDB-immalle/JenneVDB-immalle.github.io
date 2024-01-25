@@ -22,10 +22,10 @@ nav a{
     text-decoration:none;
     font-size:18px;
     padding: 17px;
-    border-radius:5px;
+    border-radius:3px;
 }
 nav a:hover{
-    background-color:#43aaba;
+    background-color:#3aaaba;
 }
 iframe{
     float:right;
